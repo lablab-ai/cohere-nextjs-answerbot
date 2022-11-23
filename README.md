@@ -1,8 +1,8 @@
-# Co:here Nextjs Starter / Boilerplate
+# Co:here Nextjs Answering bot
 
-Nextjs boilerplate for Co:here generate API ready to deploy on Vercel. Visit our [Co:here](https://lablab.ai/tech/cohere) page for more starters, tutorials, hackathons and projects built on Co:here API. Demo: https://nextjs-cohere-boilerplate.vercel.app/
+Nextjs boilerplate for Co:here generate API ready to deploy on Vercel. Visit our [Co:here](https://lablab.ai/tech/cohere) page for more starters, tutorials, hackathons and projects built on Co:here API.
 
-## How to use Co:here starter
+## How to use this repository
 
 This is a starter project that will help you getting started with Co:here API in a few minutes.
 
@@ -21,7 +21,7 @@ npm i
 # or
 yarn
 ```
-Then you need to get your Co:here API Key from [here](https://os.cohere.ai/) and insert it into the .env file
+Then you need to get your Co:here API Key from [here](https://dashboard.cohere.ai/api-keys) and insert it into the .env file
 
 Run the development server:
 ```bash
@@ -41,7 +41,7 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 To learn more about Next.js, take a look at the following resources:
 
